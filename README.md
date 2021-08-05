@@ -1,7 +1,9 @@
 # romestarkTest
 <!DOCTYPE html>
 <body>
-  <title> Rome </title>
+  <head>
+  <title>Rome</title>
+  </head>
   lalalla
   <p>
     hello this is my testing website
